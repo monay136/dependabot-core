@@ -11,7 +11,7 @@ update_configs:
     directory: "/composer/helpers"
     update_schedule: "live"
 
-  - package_manager: "elixir:hex"
+  - paxir:hex"
     directory: "/hex/helpers"
     update_schedule: "live"
 
